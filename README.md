@@ -1,4 +1,7 @@
 <h1>IT and cloud professional living in NYC</h1>
+<h2>Currently on install team of NYC Mesh<h2>
+<h2>Certifications:</h2>
+<img src="https://imgur.com/GQX62LV">
 
 <h2>👨‍💻 IT Projects:</h2>
 
@@ -10,9 +13,6 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
 
-<h2>Volunteer</h2>
-
-  - <b>I work regularly with the install and maintenance teams over at <a href="https://www.nycmesh.net/">NYC Mesh</a>, extending low-cost, high-speed internet to New Yorkers</b>
 
 <h2>🤳Connect with me:</h2>
 
