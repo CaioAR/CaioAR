@@ -1,4 +1,4 @@
-<h1>IT and cloud professional living in NYC</h1>
+<h1>IT professional living in NYC</h1>
 <h2>Currently on install team of NYC Mesh<h2>
 <h2>Certifications:</h2>
 <img src="https://i.imgur.com/GQX62LVt.png" alt="Network+ logo"/>
