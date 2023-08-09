@@ -7,6 +7,8 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/CaioAR/deploying-azure-active-directory.git)
+- <br>Networking</b>
+  - [Inspecting RADIUS traffic with Wireshark](https://github.com/CaioAR/inspecting-RADIUS-traffic-with-wireshark)
 
 
 <h2>🤳Connect with me:</h2>
