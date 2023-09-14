@@ -7,6 +7,7 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/CaioAR/deploying-azure-active-directory.git)
+  - [Subnet Association with Network Security Groups](https://github.com/CaioAR/subnet-association-with-network-security-groups)
 - <b>Networking</b>
   - [Inspecting RADIUS traffic with Wireshark](https://github.com/CaioAR/inspecting-RADIUS-traffic-with-wireshark)
 
